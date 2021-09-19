@@ -403,5 +403,5 @@ void dispMem() {
 } 
 
 
-// end of myHeap.c (sp 2021)                                         
+// end of myHeap.c                                      
 
